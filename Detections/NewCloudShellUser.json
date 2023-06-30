@@ -32,7 +32,6 @@
                 "techniques": [
                     "T1059"
                 ],
-                "alertRuleTemplateName": "6d7214d9-4a28-44df-aafb-0910b9e6ae3e",
                 "incidentConfiguration": {
                     "createIncident": true,
                     "groupingConfiguration": {
