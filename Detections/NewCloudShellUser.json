@@ -30,7 +30,7 @@
                     "Execution"
                 ],
                 "techniques": [
-                    "T1059"
+                    "T1060"
                 ],
                 "incidentConfiguration": {
                     "createIncident": true,
